@@ -1,1 +1,2 @@
 This is project setup file for git assignment Project Setup step 1
+Project Setup step 2
